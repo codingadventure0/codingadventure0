@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @codingadventure0
-- 👀 I’m interested in WEB DEVELOPMENT and PROBLEM SOLVING
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on WEB Projects
-- 📫 you can reach me by Linkedin
+                                                   👋 Hi, I’m @codingadventure0
+                                     👀 I’m interested in WEB DEVELOPMENT and PROBLEM SOLVING
+                                                 🌱 I’m currently learning REACT
+                                         💞️ I’m looking to collaborate on WEB Projects
+                                                 📫 you can reach me by Linkedin
 
 <!---
 codingadventure0/codingadventure0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
