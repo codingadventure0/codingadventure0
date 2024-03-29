@@ -2,7 +2,8 @@
                                      👀 I’m interested in WEB DEVELOPMENT and PROBLEM SOLVING
                                                  🌱 I’m currently learning REACT
                                          💞️ I’m looking to collaborate on WEB Projects
-                                                 📫 you can reach me by Linkedin
+                                                 📫 you can reach me by Linkedin (https://www.linkedin.com/in/abhishek-kumar977/)
+                                                     and Instagram (coding.adventure_)
 
 <!---
 codingadventure0/codingadventure0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
