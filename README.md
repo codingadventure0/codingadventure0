@@ -8,6 +8,7 @@ Welcome to my coding journey! I'm passionate about **WEB DEVELOPMENT** and **PRO
 ## 🔧 Skills
 
 Let's showcase my skills in a more vibrant way:
+<img align="right" src="coding-gif-img.gif" alt="Your GIF Image" width="500" height="400">
 
 ### Programming Languages
 
