@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Abhishek Kumar, aka codingadventure0
+# Hey there! 👋 I'm Abhishek Kumar,also known as codingadventure0
 
 Welcome to my coding journey! I'm passionate about **WEB DEVELOPMENT** and **PROBLEM SOLVING**, constantly exploring the realms of **REACT**.
 
