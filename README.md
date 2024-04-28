@@ -26,6 +26,7 @@ Let's showcase my skills in a more vibrant way:
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>![Express.js](https://progress-bar.dev/65?title=&color=orange&scale=100&width=100&suffix=%25&ring-width=10)
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> ![Bootstrap](https://progress-bar.dev/70?title=&color=green&scale=100&width=100&suffix=%25&ring-width=10)
+
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> ![Tailwind](https://progress-bar.dev/65?title=&color=orange&scale=100&width=100&suffix=%25&ring-width=10)
 
 
