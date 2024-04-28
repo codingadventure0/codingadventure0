@@ -60,5 +60,7 @@ Let's collaborate on **WEB Projects**. Reach out to me:
 Let's create something awesome together! 🌟
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingadventure0&layout=compact)
+
 
 *Feel free to explore my repositories and don't hesitate to connect!*
