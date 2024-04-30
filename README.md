@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=codingadventure0)
 # Hey there! 👋 I'm Abhishek Kumar,also known as codingadventure0
 
 Welcome to my coding journey! I'm passionate about **WEB DEVELOPMENT** and **PROBLEM SOLVING**, constantly exploring the realms of **REACT**.
@@ -60,9 +61,8 @@ Let's collaborate on **WEB Projects**. Reach out to me:
 Let's create something awesome together! 🌟
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=codingadventure0)
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=codingadventure0&show_icons=true&count_private=true&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingadventure0&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codingadventure0&show_icons=true&count_private=true&include_all_commits=true) 
 
 
 *Feel free to explore my repositories and don't hesitate to connect!*
