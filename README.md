@@ -62,7 +62,8 @@ Let's create something awesome together! 🌟
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingadventure0&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codingadventure0&show_icons=true&count_private=true&include_all_commits=true) 
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=codingadventure0&show_icons=true&count_private=true&include_all_commits=true)-->
+
 
 
 *Feel free to explore my repositories and don't hesitate to connect!*
