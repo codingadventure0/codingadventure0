@@ -61,9 +61,12 @@ Let's collaborate on **WEB Projects**. Reach out to me:
 Let's create something awesome together! 🌟
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingadventure0&layout=compact)
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=codingadventure0&show_icons=true&count_private=true&include_all_commits=true)-->
 
+# My GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingadventure0)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codingadventure0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codingadventure0)
 
 
 *Feel free to explore my repositories and don't hesitate to connect!*
