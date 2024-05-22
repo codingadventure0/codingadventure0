@@ -5,7 +5,6 @@ Welcome to my coding journey! I'm passionate about **WEB DEVELOPMENT** and **PRO
 
 ---
 
-
 ## 🔧 Skills
 
 Let's showcase my skills in a more vibrant way:
