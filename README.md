@@ -57,7 +57,7 @@ Let's collaborate on **WEB Projects**. Reach out to me:
 - [![Instagram](https://img.shields.io/badge/Instagram-coding.adventure_-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/coding.adventure_/)
 
 
-Let's create something awesome together! 🌟🌟🌟🌟
+Let's create something awesome together! 🌟🌟
 
 ---
 
