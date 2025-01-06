@@ -5,6 +5,9 @@ Welcome to my coding journey! I'm passionate about **WEB DEVELOPMENT** and **PRO
 
 In addition to software, I also have experience in HARDWARE ENGINEERING, designing and working with circuits and microcontrollers, particularly with Arduino and other embedded systems.
 
+let passion = "Coding"; console.log(passion + " meets purpose in reality.");
+🖥 if(opportunity) { execute(dreams); } else { innovate(); } 🔧 <br/>
+⏳ Time.sleep(0); while(alive): innovate() 🔥
 ---
 
 ## 🔧 Skills
